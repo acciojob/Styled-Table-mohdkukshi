@@ -1,1 +1,36 @@
 /* your code */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.table-1 {
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 120px;
+    width: 80%;
+}
+
+.table-header {
+    border-radius: 10px;
+    background-color: #215a8e;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+}
+
+.row1, .row3 {
+    background-color: white;
+    text-align: center;
+}
+
+.row4, .row2 {
+    background-color: #dddddd;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.table-body {
+    border-radius: 10px;
+}
